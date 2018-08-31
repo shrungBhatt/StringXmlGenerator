@@ -1,0 +1,336 @@
+Welcome Screen
+Welcome to Blitzz!
+Great customer support at your fingertips!
+Need Help?
+SIGN IN
+SIGN UP
+Enter Domain Screen
+Welcome to Blitzz!
+Great customer support at your fingertips!
+Need Help?
+Domain Name
+Next
+Sign In Screen
+Sign In
+Welcome to Blitzz!
+Great customer support at your fingertips!
+Need Help?
+Email
+User ID
+Password
+FORGOT PASSWORD?
+SIGN IN
+Sign Up Screen
+Create Account
+Welcome to Blitzz!
+Great customer support at your fingertips!
+Collaborate with live chat and video
+Email/User ID
+Verify
+Create Account
+Personal Information
+First Name
+Last Name
+Password
+Re-enter Password
+Password Match
+Next
+Other Information
+Mobile Number
+Job Role
+Accept
+Terms & Conditions
+Sign Up
+Home Screen Bottom Navigation Bar
+Contacts
+Recents
+Library
+Settings
+Contacts tab of home screen
+Contacts
+Groups
+1:1 Chat
+Call
+Video
+Search for people
+Inquiry
+Chat
+Group Detail
+MEMBERS
+Loading
+Recents tab of home screen
+Call History
+Click on the icon to call
+Recordings
+All Calls
+Missed Calls
+View Recording
+Audio Call {On clicking icon of received/missed/called}
+Video Call {On clicking icon of received/missed/called}
+Audio Call Screen
+Calling...
+Chat
+Wait... Starting to record
+Recording Stopped
+Turned on microphone
+Turned of microphone
+CALL ENDED
+User is busy.
+Video Call Screen
+Call From
+Calling
+Connecting...
+Capture my screen
+Capture @{userName} screen
+Draw on my screen
+Draw on @{userName} screen
+@{userName} turned off camera
+@{userName} turned on camera
+Unable to make call, please try again later.
+Recordings screen
+Processing...
+Call Recording
+select record to play
+by
+Loading Bars
+Connected
+Connecting
+You are offline
+Chats tab
+Search
+Open
+Archived
+Hello!
+Looks like you have no archived inquiries
+Other user has started call recording
+New Inquiry/Chat
+Contacts
+Groups
+Frequently Added
+Others
+Add Participants
+Next
+Type a name
+Tpe a group name
+Add details
+UPLOAD
+Work order # or Title
+Brief Description
+Set inquiry priority
+You inquiry will be sent to @{domainName}
+Open
+Archived
+Send Inquiry
+Are you sure you want to archive this chat?
+Unarchive Chat
+Are you sure you want to unarchive this chat?
+This chat is archived
+Please contact your Admin if you would like to edit this inquiry
+Please unarchive this chat to view or edit. Press and hold chat to unarchive.
+Please unarchive this chat to view or edit.
+Selected members will be shown here.
+Chat Screen
+Unknown
+Warning
+Leave
+Stay
+Give Permission
+Ok
+No
+Take photo
+Take 30sec. video
+Upload image/video from this phone
+Re-share image from this thread
+From Doc Library (Blitzz Cloud)
+Error
+Unable to do login, Pleas try again.
+Dismiss
+Retry
+User
+is typing...
+Message
+Load earlier messages
+Copied
+Error in capturing video
+Invalid file type.
+Request Cancel.
+Unable to pick media.
+Error while capturing image.
+Error getting image.
+Audio call
+Video call
+Compressing...
+Unable to compress video please try again
+Retry
+Cancel
+Do you want to refresh screen
+Refresh
+Updating Deatils...
+Loading...
+Loading conversation...
+Created:
+DOWNLOAD
+Library Tab
+Documents
+Videos
+You have not uploaded any documents in your library
+Take video
+From gallery
+Select video to play
+
+Play Video screen
+views
+likes
+Uploaded By
+Related Videos
+No related videos available
+Please retry and upload video
+Please enter category
+Please enter description
+Please enter title
+Delete uploaded video
+Settings Tab
+Settings
+Help
+LOGOUT
+EDIT
+MY ACCOUNT
+Change Password?
+Get My QR Code
+Manage devices
+ADMIN
+Manage Users
+DOMAIN
+Edit profile screen
+Edit profile
+NAME
+USER ID
+EMAIL
+PHONE NUMBER(OPTIONAL)
+Code
+Mobile Number
+JOB ROLE
+Domain
+Update
+Your updates have been saved
+Pick an option
+Camera
+Gallery
+Error while capturing image
+Error getting image.
+DOMAIN
+SWITCH DOMAIN
+Are you sure you want to logout form Glass?
+Are you sure , you want to logout?
+Unable to logout, Please try again later
+Change Password Screen
+Change Password
+Current Password
+Type Current Password
+New Password
+Type New Password
+Change
+Error in Change Password
+Please enter a password
+Current password and new password cannot be same
+Password has been changed successfully
+Generating QR Code...
+Use Blitzz on you Smartglass to scan the code
+Manage Devices Screen
+Logged in devices
+Long press to remove
+Devices that have been active on your account in the last 28 days or are currently signed in
+Are you sure want to remove this device?
+You could not remove this device
+Remove Device
+Are you sure want to remove all devices?
+Manage Users screen
+Create by Email ID
+Create by User ID
+By Email ID
+By User ID
+Create Users screen
+Name
+First name
+Last name
+Email ID
+Enter Email ID
+ROLE
+Select Role
+Set default password
+Create Users
+Submit
+Please enter you first name
+User invited successfully
+Please select role
+Passwords do not match
+Admin
+Internal
+External
+Invite Users Screen
+SELECT USER ROLE
+Invite users to join our network
+Please add user to invite
+Select User Role Screen
+Admin
+Will be a part of every new inquiry
+Internal
+Can communicate with internal and external users. Will be a part of every new inquiry. Eg. Employees, contractors.
+External
+Can only communicate with internal members. Cannot initiate or view other external members. Eg. Temps, customers, contractors etc.
+Select User Role
+Add User Screen
+Add Users
+ADD ANOTHER USER
+Invite
+Enter User ID
+Users Invited!
+You've added + @{count} + "users to" + @{userName}
+Enter Email ID
+Duplicate ID
+Misc (Used in the code)
+You don't have contacts with this name
+You don't have contacts!
+Note created successfully
+Delivered To
+Ready By
+No notes available
+Connection Error. Enable connection and swipe to refresh
+Remove note
+Are you sure you want to remove this note?
+Space not allowed
+Document sharing permissions updated successfully.
+Participant list
+Share Documents With
+Error trimming video
+Your video is published.
+Watch
+Document sharing permissions updated successfully.
+No search result found
+You are added to an inquiry
+Adjust date
+Password has been changed successfully.
+Password and Confirm Password doesn't match!
+(Less than a minute left)
+Are you sure you want to stop download?
+Please check your email for instruction to reset your password.
+Got it!
+Are you sure you want to change domain?
+Looks like all your contacts have been included
+Are you sure you want to remove yourself ?
+You
+Exit without savingSave image and exit
+cancel
+You are not a part of any group.
+Upload attachment
+Upload image / video from this phone
+Error in capturing video.
+Successfully logged into chat server
+Connecting to call…
+Unable to connect
+Incoming call running...
+No any domain available
+Maxfps should be greter than minfps
+Buffering
+Can't play this audio
+Can't play this video
