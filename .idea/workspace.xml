@@ -2,13 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4b21c9c-11e7-4fda-8dd1-d6110de0f438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BadNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BadNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XmlToStringGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/okhttp_4_0_0_alpha02.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XmlToStringGeneratorModified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Model_LokaliseKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/ar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/au.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/br.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/ca.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/de.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/es.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/fr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/mx.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/pt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/uk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_values/us.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringXmlGenerator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StringXmlGenerator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/german_strings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/key.txt" beforeDir="false" afterPath="$PROJECT_DIR$/key.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StringXmlGenerator/StringXmlGeneratorModified.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StringXmlGenerator/XmlToStringGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringXmlGeneratorModified.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringXmlGeneratorModified.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/XmlToStringGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/XmlToStringGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,56 +38,78 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/StringXmlGenerator$BadNum.ic" NAME="BadNum Coverage Results" MODIFIED="1552981072414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/StringXmlGenerator$XmlToStringGeneratorModified.ic" NAME="XmlToStringGeneratorModified Coverage Results" MODIFIED="1559892667403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="189" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-168377337">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.30" value="4" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.36" value="3" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.93" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4697" />
-          <entry key="txt" value="40" />
+          <entry key="java" value="6961" />
+          <entry key="strings_values" value="1" />
+          <entry key="txt" value="42" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4697" />
-          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="JAVA" value="6961" />
+          <entry key="PLAIN_TEXT" value="43" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
           <entry key="german_strings" value="2" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="9" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="21" />
           <entry key="key" value="1" />
-          <entry key="txt" value="6" />
-          <entry key="xml" value="5" />
+          <entry key="strings_values" value="1" />
+          <entry key="txt" value="106" />
+          <entry key="xml" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="9" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="XML" value="5" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="21" />
+          <entry key="PLAIN_TEXT" value="110" />
+          <entry key="XML" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -76,86 +117,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BadNumbersTest.java">
+        <entry file="file://$PROJECT_DIR$/src/XmlToStringGeneratorModified.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-117">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringXmlGeneratorModified.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/german_strings.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="267">
+              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/XmlToStringGenerator.java">
+        <entry file="file://$PROJECT_DIR$/json_output.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="-131">
+              <caret line="1213" column="68" selection-end-line="1268" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strings.xml">
+        <entry file="file://$PROJECT_DIR$/string_values/fr.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="330">
+              <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/output.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/regex/Pattern.class">
+        <entry file="file://$PROJECT_DIR$/string_values/ca.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+            <state relative-caret-position="330">
+              <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringXmlGenerator.java">
+        <entry file="file://$PROJECT_DIR$/string_values/es.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="39" column="38" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="38" />
+            <state relative-caret-position="330">
+              <caret line="22" column="85" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BadNum.java">
+        <entry file="file://$PROJECT_DIR$/string_values/mx.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="330">
+              <caret line="22" column="85" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/string_values/de.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="94" selection-start-line="22" selection-start-column="94" selection-end-line="22" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/string_values/pt.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/string_values/us.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/string_values/br.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -169,6 +215,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cleared</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -180,18 +231,42 @@
       <list>
         <option value="$PROJECT_DIR$/src/StringXmlGenerator.java" />
         <option value="$PROJECT_DIR$/input.txt" />
-        <option value="$PROJECT_DIR$/src/StringXmlGeneratorModified.java" />
         <option value="$PROJECT_DIR$/src/BadNum.java" />
         <option value="$PROJECT_DIR$/src/BadNumbersTest.java" />
+        <option value="$PROJECT_DIR$/output.txt" />
         <option value="$PROJECT_DIR$/strings.xml" />
+        <option value="$PROJECT_DIR$/src/StringXmlGeneratorModified.java" />
         <option value="$PROJECT_DIR$/src/XmlToStringGenerator.java" />
+        <option value="$PROJECT_DIR$/src/models/XmlToStringGeneratorModified.java" />
+        <option value="$PROJECT_DIR$/english_strings.txt" />
+        <option value="$PROJECT_DIR$/portuguese_strings.txt" />
+        <option value="$PROJECT_DIR$/french_strings.txt" />
+        <option value="$PROJECT_DIR$/spanish_strings.txt" />
+        <option value="$PROJECT_DIR$/german_strings.txt" />
+        <option value="$PROJECT_DIR$/strings_values" />
+        <option value="$PROJECT_DIR$/string_values.txt" />
+        <option value="$PROJECT_DIR$/src/models/Model_LokaliseKey.java" />
+        <option value="$PROJECT_DIR$/key.txt" />
+        <option value="$PROJECT_DIR$/string_values/us.txt" />
+        <option value="$PROJECT_DIR$/string_values/uk.txt" />
+        <option value="$PROJECT_DIR$/string_values/au.txt" />
+        <option value="$PROJECT_DIR$/string_values/pt.txt" />
+        <option value="$PROJECT_DIR$/string_values/br.txt" />
+        <option value="$PROJECT_DIR$/string_values/fr.txt" />
+        <option value="$PROJECT_DIR$/string_values/ca.txt" />
+        <option value="$PROJECT_DIR$/string_values/es.txt" />
+        <option value="$PROJECT_DIR$/string_values/mx.txt" />
+        <option value="$PROJECT_DIR$/string_values/ar.txt" />
+        <option value="$PROJECT_DIR$/string_values/de.txt" />
+        <option value="$PROJECT_DIR$/src/XmlToStringGeneratorModified.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="36" />
-    <option name="width" value="1338" />
-    <option name="height" value="699" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -201,6 +276,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,25 +285,46 @@
               <item name="StringXmlGenerator" type="b2602c69:ProjectViewProjectNode" />
               <item name="StringXmlGenerator" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="StringXmlGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StringXmlGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StringXmlGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StringXmlGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="string_values" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StringXmlGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/okhttp-4.0.0-alpha02.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="models" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/string_values" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -241,7 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.XmlToStringGenerator">
+  <component name="RunManager" selected="Application.XmlToStringGeneratorModified">
     <configuration name="BadNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BadNum" />
       <module name="StringXmlGenerator" />
@@ -270,17 +368,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XmlToStringGeneratorModified" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XmlToStringGeneratorModified" />
+      <module name="StringXmlGenerator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.StringXmlGenerator" />
       <item itemvalue="Application.StringXmlGeneratorModified" />
       <item itemvalue="Application.BadNum" />
       <item itemvalue="Application.XmlToStringGenerator" />
+      <item itemvalue="Application.XmlToStringGeneratorModified" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XmlToStringGeneratorModified" />
+        <item itemvalue="Application.StringXmlGeneratorModified" />
         <item itemvalue="Application.XmlToStringGenerator" />
         <item itemvalue="Application.BadNum" />
-        <item itemvalue="Application.StringXmlGeneratorModified" />
         <item itemvalue="Application.StringXmlGenerator" />
       </list>
     </recent_temporary>
@@ -302,25 +409,35 @@
       <workItem from="1539254106616" duration="1542000" />
       <workItem from="1552976294849" duration="6251000" />
       <workItem from="1552989977326" duration="115000" />
-      <workItem from="1558609352475" duration="2438000" />
+      <workItem from="1558609352475" duration="5283000" />
+      <workItem from="1558940401931" duration="4872000" />
+      <workItem from="1559037868377" duration="1131000" />
+      <workItem from="1559212573065" duration="2889000" />
+      <workItem from="1559298903680" duration="1201000" />
+      <workItem from="1559892028921" duration="4850000" />
+      <workItem from="1560237103545" duration="1444000" />
+      <workItem from="1560853801762" duration="1181000" />
+      <workItem from="1561181100171" duration="248000" />
+      <workItem from="1561181381394" duration="7385000" />
+      <workItem from="1561978849885" duration="1313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29181000" />
+    <option name="totallyTimeSpent" value="58540000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1368" height="745" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27954546" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49871466" visible="true" weight="0.3280303" />
+      <window_info id="Structure" order="1" sideWeight="0.5012854" side_tool="true" weight="0.2840909" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32744783" />
-      <window_info active="true" anchor="bottom" content_ui="combo" x="16" y="276" width="1326" height="269" id="Run" order="2" visible="true" weight="0.4622793" />
+      <window_info anchor="bottom" content_ui="combo" x="16" y="276" width="1326" height="269" id="Run" order="2" weight="0.32744783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37560192" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,12 +446,12 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32744783" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32905295" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32905295" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32744783" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32954547" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32954547" />
@@ -378,9 +495,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/XmlToStringGenerator.java</url>
-          <line>39</line>
+          <line>103</line>
           <properties />
-          <option name="timeStamp" value="14" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/XmlToStringGeneratorModified.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/XmlToStringGeneratorModified.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -395,6 +524,51 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>new Gson().toJson(new Keys(sModelLokaliseKeys))</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.google.gson.Gson</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Gson().toJson(new Keys(sModelLokaliseKeys))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sModelLokaliseKeys</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.google.gson.Gson</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Gson().toJson(sModelLokaliseKeys)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.google.gson.Gson</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sModelLokaliseKeys</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sModelLokaliseKeys.get(229)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.google.gson.Gson</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sModelLokaliseKeys.get(230)</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.google.gson.Gson</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new Gson().toJson(sModelLokaliseKeys)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>badNumbersList.contains(counter)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -402,15 +576,35 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/key" />
+    <entry file="file://$PROJECT_DIR$/src/german_strings" />
+    <entry file="file://$PROJECT_DIR$/input.txt" />
+    <entry file="file://$PROJECT_DIR$/src/BadNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/regex/Pattern.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.xml" />
+    <entry file="file://$PROJECT_DIR$/strings.xml" />
     <entry file="file://$PROJECT_DIR$/StringXmlGenerator.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/key" />
-    <entry file="file://$PROJECT_DIR$/src/german_strings" />
-    <entry file="file://$PROJECT_DIR$/input.txt">
+    <entry file="file://$PROJECT_DIR$/src/StringXmlGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="510">
+          <caret line="39" column="38" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -421,63 +615,209 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BadNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringXmlGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="39" column="38" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/regex/Pattern.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/german_strings.xml" />
+    <entry file="file://$PROJECT_DIR$/english_strings.xml" />
+    <entry file="file://$PROJECT_DIR$/output.txt" />
+    <entry file="file://$PROJECT_DIR$/spanish_strings.xml" />
+    <entry file="file://$PROJECT_DIR$/portuguese_strings.txt" />
+    <entry file="file://$PROJECT_DIR$/german_strings.txt" />
     <entry file="file://$PROJECT_DIR$/src/StringXmlGeneratorModified.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="303">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/german_strings.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spanish_strings.txt" />
+    <entry file="file://$PROJECT_DIR$/english_strings.txt" />
+    <entry file="file://$PROJECT_DIR$/french_strings.txt" />
     <entry file="file://$PROJECT_DIR$/src/XmlToStringGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="-1020">
+          <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/strings_values" />
+    <entry file="file://$PROJECT_DIR$/string_values.txt" />
+    <entry file="file://$PROJECT_DIR$/src/models/Model_LokaliseKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="69" column="40" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/key.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/uk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/ar.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="85" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/au.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="60" selection-end-line="22" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/br.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/ca.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/de.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="94" selection-start-line="22" selection-start-column="94" selection-end-line="22" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/es.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="85" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/fr.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/mx.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="85" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/pt.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_values/us.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/XmlToStringGeneratorModified.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="1213" column="68" selection-end-line="1268" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>StringXmlGenerator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

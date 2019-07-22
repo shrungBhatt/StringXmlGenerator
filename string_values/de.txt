@@ -1,0 +1,23 @@
+Der Nutzer ist bereits hinzugefügt.
+Benutzer bereits angemeldet.
+Parameter fehlt.
+Wir haben bereits ein Profil mit dieser E-Mail oder Benutzer-ID. Bitte versuchen Sie Ihre Domain-Administrator anmelden oder kontaktieren.
+Es tut uns leid,
+Sie haben eine ungültige E-Mail-Adresse oder Benutzer-ID eingegeben. Bitte kontaktieren Sie Ihren Administrator oder verwenden Sie eine zugelassene E-Mail / Benutzer-ID.
+Ungültige E-Mail oder Passwort
+Bitte geben Sie eine gültige alte Passwort
+aktuelle und das neue Passwort nicht gleich sein
+Das Konto ist nicht mit E-Mail gefunden.
+Passwort-Recovery-Link ist abgelaufen.
+Diese Funktion wird in Kürze hinzugefügt
+Ungültige E-Mail / Benutzer-ID oder Passwort
+Ihr Passwort ist Check E-Mail für neues Passwort abläuft.
+Benutzer deaktiviert ist, bitte kontaktieren Sie Ihren Domain-Administrator.
+Ungültige uemail oder Benutzer-ID.
+Login Gerät nicht verfügbar.
+Kann nicht Abmelden
+Diese E-Mail-Adresse ist bereits in einem anderen Versuch Arbeitsbereich registriert!
+Ungültiger Bestätigungscode.
+Max versucht, über.
+Verification Code Zeit über.
+Das Domain nicht existiert, versuchen Sie es erneut oder kontaktieren Sie Ihren Administrator.

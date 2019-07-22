@@ -1,0 +1,23 @@
+User is already added.
+User already signed up.
+Parameter is missing.
+We already have a profile with this email or user ID. Please try to login or contact your domain admin.
+Sorry,
+You have entered an invalid email address or user ID. Please contact your administrator or use an approved email/User ID.
+Invalid email or password
+Please enter valid old password
+current password and new password cannot be same
+Account is not found with Email.
+Password recovery link is expired.
+This feature will be added soon
+Invalid email/user ID or password
+Your Password is expire check email for new password.
+User is deactivated, Please contact your domain admin.
+Invalid uemail or user id.
+Login Device not available.
+Can't Logout
+This email address is already registered in another trial workspace!
+Invalid verification code.
+Max try over.
+Verification code time over.
+That domain does not exist, try again or contact your admin.

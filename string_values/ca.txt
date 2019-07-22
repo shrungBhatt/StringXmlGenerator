@@ -1,0 +1,23 @@
+L'utilisateur est déjà ajouté.
+Utilisateur dispose déjà.
+Le paramètre est manquant.
+Nous avons déjà un profil avec cet e-mail ou votre ID utilisateur. S'il vous plaît essayer de vous connecter ou contacter votre administrateur de domaine.
+Pardon,
+Vous avez entré une adresse e-mail non valide ou ID utilisateur. S'il vous plaît contacter votre administrateur ou utiliser un e-mail / ID utilisateur approuvé.
+email ou mot de passe invalide
+S'il vous plaît saisir l'ancien mot de passe valide
+mot de passe actuel et nouveau mot de passe ne peuvent pas être les mêmes
+Compte ne se trouve pas avec e-mail.
+lien de récupération de mot de passe est expiré.
+Cette fonctionnalité sera ajoutée bientôt
+mail invalide / ID utilisateur ou mot de passe
+Votre mot de passe expire chèque email nouveau mot de passe.
+L'utilisateur est désactivé, S'il vous plaît contacter votre administrateur de domaine.
+Invalide uemail ou l'identifiant de l'utilisateur.
+Connexion Appareil non disponible.
+Ne peut pas déconnecter
+Cette adresse e-mail est déjà enregistré dans un autre espace de travail d'essai!
+Code de vérification invalide.
+Max essayer plus.
+temps de code de vérification sur.
+Ce domaine n'existe pas, essayez à nouveau ou contactez votre administrateur.

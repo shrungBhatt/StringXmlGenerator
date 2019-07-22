@@ -30,7 +30,7 @@ public class StringXmlGeneratorModified {
         bufferedReader.close();
 
 
-        reader = new FileReader("german_strings.txt");
+        reader = new FileReader("spanish_strings.txt");
         bufferedReader = new BufferedReader(reader);
 
         while ((line = bufferedReader.readLine()) != null) {
@@ -47,7 +47,7 @@ public class StringXmlGeneratorModified {
         }
 
 
-        FileWriter writer = new FileWriter("output.xml");
+        FileWriter writer = new FileWriter("spanish_strings.xml");
         for(String str: sGenerateStrings) {
             writer.write(str);
             writer.write("\n");

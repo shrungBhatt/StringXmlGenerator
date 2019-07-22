@@ -1,0 +1,23 @@
+Utilizador já adicionado.
+Usuário já se inscreveram.
+Parâmetro está faltando.
+Nós já temos um perfil com este e-mail ou usuário ID. Por favor, tente fazer o login ou entre em contato com o administrador do domínio.
+Desculpa,
+Você digitou um inválido endereço de e-mail ou usuário ID. Entre em contato com o administrador ou usar um ID de e-mail / Utilizador aprovado.
+e-mail ou senha inválida
+Digite a senha antiga válida
+senha atual ea nova senha não pode ser igual
+Conta não é encontrado com e-mail.
+link de recuperação de senha expirou.
+Este recurso será adicionado em breve
+email ID inválido / usuário ou senha
+Sua senha é expirar e-mail de verificação para nova senha.
+Usuário é desativado, por favor contacte o seu administrador de domínio.
+uemail inválida ou ID de usuário.
+Dispositivo de login não disponível.
+não pode Sair
+Este endereço de e-mail já está registrado em outro espaço de trabalho julgamento!
+Código de verificação inválido.
+Max tente de novo.
+tempo de código de verificação ao longo.
+Esse domínio não existe, tente novamente ou contate o administrador.

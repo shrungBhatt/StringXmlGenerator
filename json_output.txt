@@ -1,0 +1,1269 @@
+{
+  "keys": [
+    {
+      "key_name": "userInvitation_UserInvitation_message3301",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "User is already added."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "User is already added."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "User is already added."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Der Nutzer ist bereits hinzugefügt."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Este usuário já se cadastrou."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Utilizador já adicionado."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Ya se añade usuario."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Ya se añade usuario."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Ya se añade usuario."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "L\u0027utilisateur est déjà ajouté."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "L\u0027utilisateur est déjà ajouté."
+        }
+      ]
+    },
+    {
+      "key_name": "deleteInvitationMesssgae_DeleteInvitation_message3802",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "User already signed up."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "User already signed up."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "User already signed up."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Benutzer bereits angemeldet."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "O parâmetro está faltando."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Usuário já se inscreveram."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "El usuario ya se ha registrado."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "El usuario ya se ha registrado."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "El usuario ya se ha registrado."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Utilisateur dispose déjà."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Utilisateur dispose déjà."
+        }
+      ]
+    },
+    {
+      "key_name": "signup_Signup_message101",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Parameter is missing."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Parameter is missing."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Parameter is missing."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Parameter fehlt."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Já existe uma conta com este e-mail ou ID de usuário. Tente fazer o login ou entre em contato com o administrador do domínio."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Parâmetro está faltando."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Parámetro esté ausente."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Parámetro esté ausente."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Parámetro esté ausente."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Le paramètre est manquant."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Le paramètre est manquant."
+        }
+      ]
+    },
+    {
+      "key_name": "userinvitation_ISUserInvited_message301",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "We already have a profile with this email or user ID. Please try to login or contact your domain admin."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "We already have a profile with this email or user ID. Please try to login or contact your domain admin."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "We already have a profile with this email or user ID. Please try to login or contact your domain admin."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Wir haben bereits ein Profil mit dieser E-Mail oder Benutzer-ID. Bitte versuchen Sie Ihre Domain-Administrator anmelden oder kontaktieren."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Desculpe,"
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Nós já temos um perfil com este e-mail ou usuário ID. Por favor, tente fazer o login ou entre em contato com o administrador do domínio."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Ya tenemos un perfil con este correo electrónico o ID de usuario. Por favor, intente iniciar sesión o ponerse en contacto con el administrador del dominio."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Ya tenemos un perfil con este correo electrónico o ID de usuario. Por favor, intente iniciar sesión o ponerse en contacto con el administrador del dominio."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Ya tenemos un perfil con este correo electrónico o ID de usuario. Por favor, intente iniciar sesión o ponerse en contacto con el administrador del dominio."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Nous avons déjà un profil avec cet e-mail ou votre ID utilisateur. S\u0027il vous plaît essayer de vous connecter ou contacter votre administrateur de domaine."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Nous avons déjà un profil avec cet e-mail ou votre ID utilisateur. S\u0027il vous plaît essayer de vous connecter ou contacter votre administrateur de domaine."
+        }
+      ]
+    },
+    {
+      "key_name": "userinvitation_ISUserInvited_message302",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Sorry,"
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Sorry,"
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Sorry,"
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Es tut uns leid,"
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Você digitou um valor inválido de ID de usuário ou de e-mail. Use um ID de usuário ou um e-mail válido ou entre em contato com o administrador do domínio."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Desculpa,"
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Lo siento,"
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Lo siento,"
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Lo siento,"
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Pardon,"
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Pardon,"
+        }
+      ]
+    },
+    {
+      "key_name": "userinvitation_ISUserInvited_message3021",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "You have entered an invalid email address or user ID. Please contact your administrator or use an approved email/User ID."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "You have entered an invalid email address or user ID. Please contact your administrator or use an approved email/User ID."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "You have entered an invalid email address or user ID. Please contact your administrator or use an approved email/User ID."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Sie haben eine ungültige E-Mail-Adresse oder Benutzer-ID eingegeben. Bitte kontaktieren Sie Ihren Administrator oder verwenden Sie eine zugelassene E-Mail / Benutzer-ID."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "e-mail ou senha inválida"
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Você digitou um inválido endereço de e-mail ou usuário ID. Entre em contato com o administrador ou usar um ID de e-mail / Utilizador aprovado."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Ha introducido una dirección de correo electrónico o ID de usuario válido. Por favor, póngase en contacto con el administrador o utilizar un ID de correo electrónico / usuario autorizado."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Ha introducido una dirección de correo electrónico o ID de usuario válido. Por favor, póngase en contacto con el administrador o utilizar un ID de correo electrónico / usuario autorizado."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Ha introducido una dirección de correo electrónico o ID de usuario válido. Por favor, póngase en contacto con el administrador o utilizar un ID de correo electrónico / usuario autorizado."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Vous avez entré une adresse e-mail non valide ou ID utilisateur. S\u0027il vous plaît contacter votre administrateur ou utiliser un e-mail / ID utilisateur approuvé."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Vous avez entré une adresse e-mail non valide ou ID utilisateur. S\u0027il vous plaît contacter votre administrateur ou utiliser un e-mail / ID utilisateur approuvé."
+        }
+      ]
+    },
+    {
+      "key_name": "loginMessgage_Login_message401",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Invalid email or password"
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Invalid email or password"
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Invalid email or password"
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Ungültige E-Mail oder Passwort"
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Digite a senha antiga válida"
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "e-mail ou senha inválida"
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "correo electrónico o contraseña no válidos"
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "correo electrónico o contraseña no válidos"
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "correo electrónico o contraseña no válidos"
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "email ou mot de passe invalide"
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "email ou mot de passe invalide"
+        }
+      ]
+    },
+    {
+      "key_name": "changePassword_ChangePassword_message2101",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Please enter valid old password"
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Please enter valid old password"
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Please enter valid old password"
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Bitte geben Sie eine gültige alte Passwort"
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "A senha atual e a nova senha não podem ser iguais."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Digite a senha antiga válida"
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Por favor, introduzca una contraseña válida de edad"
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Por favor, introduzca una contraseña válida de edad"
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Por favor, introduzca una contraseña válida de edad"
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "S\u0027il vous plaît saisir l\u0027ancien mot de passe valide"
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "S\u0027il vous plaît saisir l\u0027ancien mot de passe valide"
+        }
+      ]
+    },
+    {
+      "key_name": "changePassword_ChangePassword_message2301",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "current password and new password cannot be same"
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "current password and new password cannot be same"
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "current password and new password cannot be same"
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "aktuelle und das neue Passwort nicht gleich sein"
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Não foi encontrada uma conta com o e-mail."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "senha atual ea nova senha não pode ser igual"
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "contraseña actual y la nueva contraseña no pueden ser iguales"
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "contraseña actual y la nueva contraseña no pueden ser iguales"
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "contraseña actual y la nueva contraseña no pueden ser iguales"
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "mot de passe actuel et nouveau mot de passe ne peuvent pas être les mêmes"
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "mot de passe actuel et nouveau mot de passe ne peuvent pas être les mêmes"
+        }
+      ]
+    },
+    {
+      "key_name": "forgetPassword_ForgetPassword_message2301",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Account is not found with Email."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Account is not found with Email."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Account is not found with Email."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Das Konto ist nicht mit E-Mail gefunden."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "O link de recuperação da senha expirou."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Conta não é encontrado com e-mail."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Cuenta no se encuentra con el correo electrónico."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Cuenta no se encuentra con el correo electrónico."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Cuenta no se encuentra con el correo electrónico."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Compte ne se trouve pas avec e-mail."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Compte ne se trouve pas avec e-mail."
+        }
+      ]
+    },
+    {
+      "key_name": "newPassword_NewPassword_message2501",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Password recovery link is expired."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Password recovery link is expired."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Password recovery link is expired."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Passwort-Recovery-Link ist abgelaufen."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Este recurso estará disponível em breve"
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "link de recuperação de senha expirou."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "enlace de recuperación de la contraseña ha caducado."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "enlace de recuperación de la contraseña ha caducado."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "enlace de recuperación de la contraseña ha caducado."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "lien de récupération de mot de passe est expiré."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "lien de récupération de mot de passe est expiré."
+        }
+      ]
+    },
+    {
+      "key_name": "companyUserMessage_CompanyUser_message1702",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "This feature will be added soon"
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "This feature will be added soon"
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "This feature will be added soon"
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Diese Funktion wird in Kürze hinzugefügt"
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Valor inválido para ID de usuário, emai ou senha."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Este recurso será adicionado em breve"
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Esta característica se añadirán en breve"
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Esta característica se añadirán en breve"
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Esta característica se añadirán en breve"
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Cette fonctionnalité sera ajoutée bientôt"
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Cette fonctionnalité sera ajoutée bientôt"
+        }
+      ]
+    },
+    {
+      "key_name": "loginMessgage_Login_messageV5401",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Invalid email/user ID or password"
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Invalid email/user ID or password"
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Invalid email/user ID or password"
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Ungültige E-Mail / Benutzer-ID oder Passwort"
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "A sua senha expirou. Verifique o seu e-mail para uma nova senha."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "email ID inválido / usuário ou senha"
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "correo electrónico / nombre de usuario o contraseña no válida"
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "correo electrónico / nombre de usuario o contraseña no válida"
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "correo electrónico / nombre de usuario o contraseña no válida"
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "mail invalide / ID utilisateur ou mot de passe"
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "mail invalide / ID utilisateur ou mot de passe"
+        }
+      ]
+    },
+    {
+      "key_name": "loginMessgage_Login_message404",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Your Password is expire check email for new password."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Your Password is expire check email for new password."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Your Password is expire check email for new password."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Ihr Passwort ist Check E-Mail für neues Passwort abläuft."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Esse domínio não existe, tente novamente ou contate o Administrador."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Sua senha é expirar e-mail de verificação para nova senha."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Su contraseña es caduca correo electrónico de verificación de nueva contraseña."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Su contraseña es caduca correo electrónico de verificación de nueva contraseña."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Su contraseña es caduca correo electrónico de verificación de nueva contraseña."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Votre mot de passe expire chèque email nouveau mot de passe."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Votre mot de passe expire chèque email nouveau mot de passe."
+        }
+      ]
+    },
+    {
+      "key_name": "loginMessgage_Login_message405",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "User is deactivated, Please contact your domain admin."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "User is deactivated, Please contact your domain admin."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "User is deactivated, Please contact your domain admin."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Benutzer deaktiviert ist, bitte kontaktieren Sie Ihren Domain-Administrator."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Valor inválido para ID de usuário, ou emai."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Usuário é desativado, por favor contacte o seu administrador de domínio."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "El usuario está desactivado, por favor póngase en contacto con el administrador del dominio."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "El usuario está desactivado, por favor póngase en contacto con el administrador del dominio."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "El usuario está desactivado, por favor póngase en contacto con el administrador del dominio."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "L\u0027utilisateur est désactivé, S\u0027il vous plaît contacter votre administrateur de domaine."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "L\u0027utilisateur est désactivé, S\u0027il vous plaît contacter votre administrateur de domaine."
+        }
+      ]
+    },
+    {
+      "key_name": "userinvitation_ISUserInvited_message304",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Invalid uemail or user id."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Invalid uemail or user id."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Invalid uemail or user id."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Ungültige uemail oder Benutzer-ID."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Dispositivo de login não disponível."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "uemail inválida ou ID de usuário."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "uemail no válido o el ID de usuario."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "uemail no válido o el ID de usuario."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "uemail no válido o el ID de usuario."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Invalide uemail ou l\u0027identifiant de l\u0027utilisateur."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Invalide uemail ou l\u0027identifiant de l\u0027utilisateur."
+        }
+      ]
+    },
+    {
+      "key_name": "Logout_message5202",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Login Device not available."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Login Device not available."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Login Device not available."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Login Gerät nicht verfügbar."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Não foi possível Sair"
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Dispositivo de login não disponível."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Acceso a dispositivo no está disponible."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Acceso a dispositivo no está disponible."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Acceso a dispositivo no está disponible."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Connexion Appareil non disponible."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Connexion Appareil non disponible."
+        }
+      ]
+    },
+    {
+      "key_name": "Logout_title5201",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Can\u0027t Logout"
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Can\u0027t Logout"
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Can\u0027t Logout"
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Kann nicht Abmelden"
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Este e-mail já está registrado em outro espaço de trabalho de teste."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "não pode Sair"
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "No se puede Cerrar sesión"
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "No se puede Cerrar sesión"
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "No se puede Cerrar sesión"
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Ne peut pas déconnecter"
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Ne peut pas déconnecter"
+        }
+      ]
+    },
+    {
+      "key_name": "sendVerificationCode_CompanyWithEmailAvailable_message5501",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "This email address is already registered in another trial workspace!"
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "This email address is already registered in another trial workspace!"
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "This email address is already registered in another trial workspace!"
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Diese E-Mail-Adresse ist bereits in einem anderen Versuch Arbeitsbereich registriert!"
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Código de verificação inválido."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Este endereço de e-mail já está registrado em outro espaço de trabalho julgamento!"
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Esta dirección de correo electrónico ya está registrado en otro espacio de trabajo de prueba!"
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Esta dirección de correo electrónico ya está registrado en otro espacio de trabajo de prueba!"
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Esta dirección de correo electrónico ya está registrado en otro espacio de trabajo de prueba!"
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Cette adresse e-mail est déjà enregistré dans un autre espace de travail d\u0027essai!"
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Cette adresse e-mail est déjà enregistré dans un autre espace de travail d\u0027essai!"
+        }
+      ]
+    },
+    {
+      "key_name": "verifyEmail_InvalidVerification_message5601",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Invalid verification code."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Invalid verification code."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Invalid verification code."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Ungültiger Bestätigungscode."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Max tente de novo."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Código de verificação inválido."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Código de verificación invalido."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Código de verificación invalido."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Código de verificación invalido."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Code de vérification invalide."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Code de vérification invalide."
+        }
+      ]
+    },
+    {
+      "key_name": "verifyEmail_MaxTryVerification_message5601",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Max try over."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Max try over."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Max try over."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Max versucht, über."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "O tempo de código de verificação terminou."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Max tente de novo."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Max intente de nuevo."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Max intente de nuevo."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Max intente de nuevo."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Max essayer plus."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Max essayer plus."
+        }
+      ]
+    },
+    {
+      "key_name": "verifyEmail_TimeLimitVerification_message5601",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "Verification code time over."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "Verification code time over."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "Verification code time over."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Verification Code Zeit über."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Este domínio não existe, tente novamente ou entre em contato com o administrador."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "tempo de código de verificação ao longo."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "tiempo código de verificación más."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "tiempo código de verificación más."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "tiempo código de verificación más."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "temps de code de vérification sur."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "temps de code de vérification sur."
+        }
+      ]
+    },
+    {
+      "key_name": "isCompanyAvailable_isCompanyAvailable_message4301",
+      "platforms": [
+        "other"
+      ],
+      "tags": [
+        "Backend"
+      ],
+      "translations": [
+        {
+          "language_iso": "en_US",
+          "translation": "That domain does not exist, try again or contact your admin."
+        },
+        {
+          "language_iso": "en_GB",
+          "translation": "That domain does not exist, try again or contact your admin."
+        },
+        {
+          "language_iso": "en_AU",
+          "translation": "That domain does not exist, try again or contact your admin."
+        },
+        {
+          "language_iso": "de_DE",
+          "translation": "Das Domain nicht existiert, versuchen Sie es erneut oder kontaktieren Sie Ihren Administrator."
+        },
+        {
+          "language_iso": "pt_BR",
+          "translation": "Esse domínio não existe, tente novamente ou contate o administrador."
+        },
+        {
+          "language_iso": "pt_PT",
+          "translation": "Esse domínio não existe, tente novamente ou contate o administrador."
+        },
+        {
+          "language_iso": "es_ES",
+          "translation": "Ese dominio no existe, inténtelo de nuevo o póngase en contacto con el administrador."
+        },
+        {
+          "language_iso": "es_MX",
+          "translation": "Ese dominio no existe, inténtelo de nuevo o póngase en contacto con el administrador."
+        },
+        {
+          "language_iso": "es_AR",
+          "translation": "Ese dominio no existe, inténtelo de nuevo o póngase en contacto con el administrador."
+        },
+        {
+          "language_iso": "fr_FR",
+          "translation": "Ce domaine n\u0027existe pas, essayez à nouveau ou contactez votre administrateur."
+        },
+        {
+          "language_iso": "fr_CA",
+          "translation": "Ce domaine n\u0027existe pas, essayez à nouveau ou contactez votre administrateur."
+        }
+      ]
+    }
+  ]
+}

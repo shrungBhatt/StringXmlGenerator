@@ -1,0 +1,23 @@
+Ya se añade usuario.
+El usuario ya se ha registrado.
+Parámetro esté ausente.
+Ya tenemos un perfil con este correo electrónico o ID de usuario. Por favor, intente iniciar sesión o ponerse en contacto con el administrador del dominio.
+Lo siento,
+Ha introducido una dirección de correo electrónico o ID de usuario válido. Por favor, póngase en contacto con el administrador o utilizar un ID de correo electrónico / usuario autorizado.
+correo electrónico o contraseña no válidos
+Por favor, introduzca una contraseña válida de edad
+contraseña actual y la nueva contraseña no pueden ser iguales
+Cuenta no se encuentra con el correo electrónico.
+enlace de recuperación de la contraseña ha caducado.
+Esta característica se añadirán en breve
+correo electrónico / nombre de usuario o contraseña no válida
+Su contraseña es caduca correo electrónico de verificación de nueva contraseña.
+El usuario está desactivado, por favor póngase en contacto con el administrador del dominio.
+uemail no válido o el ID de usuario.
+Acceso a dispositivo no está disponible.
+No se puede Cerrar sesión
+Esta dirección de correo electrónico ya está registrado en otro espacio de trabajo de prueba!
+Código de verificación invalido.
+Max intente de nuevo.
+tiempo código de verificación más.
+Ese dominio no existe, inténtelo de nuevo o póngase en contacto con el administrador.

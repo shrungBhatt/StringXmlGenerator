@@ -1,0 +1,23 @@
+Este usuário já se cadastrou.
+O parâmetro está faltando.
+Já existe uma conta com este e-mail ou ID de usuário. Tente fazer o login ou entre em contato com o administrador do domínio.
+Desculpe,
+Você digitou um valor inválido de ID de usuário ou de e-mail. Use um ID de usuário ou um e-mail válido ou entre em contato com o administrador do domínio.
+e-mail ou senha inválida
+Digite a senha antiga válida
+A senha atual e a nova senha não podem ser iguais.
+Não foi encontrada uma conta com o e-mail.
+O link de recuperação da senha expirou.
+Este recurso estará disponível em breve
+Valor inválido para ID de usuário, emai ou senha.
+A sua senha expirou. Verifique o seu e-mail para uma nova senha.
+Esse domínio não existe, tente novamente ou contate o Administrador.
+Valor inválido para ID de usuário, ou emai.
+Dispositivo de login não disponível.
+Não foi possível Sair
+Este e-mail já está registrado em outro espaço de trabalho de teste.
+Código de verificação inválido.
+Max tente de novo.
+O tempo de código de verificação terminou.
+Este domínio não existe, tente novamente ou entre em contato com o administrador.
+Esse domínio não existe, tente novamente ou contate o administrador.
